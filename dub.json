@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Daniil Archangelsky (KikyTokamuro)"
+	],
+	"copyright": "Copyright © 2021, Daniil Archangelsky (KikyTokamuro)",
+	"description": "Finger client",
+	"license": "MIT",
+	"name": "dfinger"
+}
