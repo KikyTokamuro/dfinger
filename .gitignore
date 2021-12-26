@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dfinger
+dfinger.so
+dfinger.dylib
+dfinger.dll
+dfinger.a
+dfinger.lib
+dfinger-test-*
+*.exe
+*.o
+*.obj
+*.lst
